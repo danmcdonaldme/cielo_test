@@ -1,0 +1,28 @@
+.marginBottom25{
+    margin-bottom: 25px;
+}
+.marginTop50{
+    margin-bottom: 50px;
+}
+.marginTop25{
+    margin-bottom: 25px;
+}
+.marginTop10{
+    margin-bottom: 10px;
+}
+.signup-button{border-top: 1px solid#888; padding-top:15px; font-size:85%}
+label.error{    
+    color: red;
+}
+.input-group-addon{
+    padding: 8px 6px;
+    width: 7%;
+    float: left;
+}
+.input-group .form-control{
+    width: 91%;
+}
+.form-div{
+    display: inline-block;
+    width: 100%;
+}
